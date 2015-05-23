@@ -1,0 +1,49 @@
+.child li a {color:#cdd0d8; text-decoration:none; text-shadow: 0 1px 0 #000;}
+.product-sidebar label {font-weight:normal;}
+#product_description {height:450px;}
+.navbar .nav.navbar-nav.pull-right {min-width:0px !important;}
+.example {display: none;}
+#uploadFilesShell {
+    background:#F5F7FA;
+    border:5px dashed #E6E9ED;
+    padding:40px 50px;
+    text-align:center;
+}
+
+.fd-file {display:block; margin:0 auto 25px;}
+
+#uploadFilesShell p {font-size:18px;}
+
+#prodPhotosShell .example {display:none;}
+.prodPhotoCell {list-style:none;  display:inline-block; margin:15px 15px 0; vertical-align:top; text-align:center;}
+.prodPhotoCell img {max-width:150px; height:auto; max-height:150px; margin-bottom:5px;}
+
+.green {color:#A0D468 !important;}
+.yellow {color:#FFCE54 !important;}
+
+.waiting {
+    height:20px;
+    background:url(../img/preloader.GIF) center center no-repeat;
+}
+
+.bg-success {
+    padding:15px;
+    margin-bottom:15px;
+}
+
+.progrPhotoCell {margin:15px 0 0 0 !important; position:relative;}
+.progrRemovePhoto {position:absolute; bottom:10px; right:10px; background:red; color:#fff; padding:5px; opacity:0.7;}
+.progrRemovePhoto:hover {
+    color:#fff;
+    opacity:1;
+    text-decoration:none;
+}
+
+.help_types_labels > div {font-weight:bold; margin-bottom:5px;}
+.help_types_labels > div > label {font-weight:normal !important; display:block;}
+
+#content .content-title {line-height:67px;}
+
+.news-admin-list {
+    margin-top:15px;
+}
